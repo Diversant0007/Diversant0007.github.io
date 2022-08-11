@@ -9,9 +9,7 @@
 <availability available="yes" storeId="PP1"/>
 <availability available="yes" storeId="PP2"/>
 </availabilities>
-<cityprices>
-<cityprice cityId="750000000">147800</cityprice>
-</cityprices>
+<price>147800</price>
 </offer>
 </offers>
 </kaspi_catalog>
