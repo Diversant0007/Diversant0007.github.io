@@ -2,14 +2,13 @@
 <company>MadMouse</company>
 <merchantid>6840009</merchantid>
 <offers>
-<offer sku="100257734">
-<model>Samsung UE32T4500AU</model>
-<brand>Samsung</brand>
+<offer sku="103879616_6840009">
+<model>CROWN CME-206</model>
+<brand>CROWN</brand>
 <availabilities>
 <availability available="yes" storeId="PP1"/>
-<availability available="yes" storeId="PP2"/>
 </availabilities>
-<price>147800</price>
+<price>1600</price>
 </offer>
 </offers>
 </kaspi_catalog>
