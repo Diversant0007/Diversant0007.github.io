@@ -1,14 +1,21 @@
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="string" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
-<company>MadMouse</company>
-<merchantid>6840009</merchantid>
-<offers>
-<offer sku="103879616_6840009">
-<model>CROWN CME-206</model>
-<brand>CROWN</brand>
-<availabilities>
-<availability available="yes" storeId="PP1"/>
-</availabilities>
-<price>1600</price>
-</offer>
-</offers>
+<kaspi_catalog date="string"
+              xmlns="kaspiShopping"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+   <company>CompanyName</company>
+    <merchantid>CompanyID</merchantid>
+    <offers>
+        <offer sku="100257734_6840009">
+            <model>Samsung UE32T4500AU черный</model>
+            <brand>Samsung</brand>
+            <availabilities>
+                <availability available="yes" storeId="PP1"/>
+                <availability available="yes" storeId="PP2"/>
+            </availabilities>
+            <cityprices>
+				<cityprice cityId="750000000">147800</cityprice>
+				<cityprice cityId="710000000">147800</cityprice>
+			</cityprices>
+        </offer>
+    </offers>
 </kaspi_catalog>
