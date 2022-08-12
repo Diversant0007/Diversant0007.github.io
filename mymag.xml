@@ -8,6 +8,7 @@
         <offer sku="100257734_6840009">
             <model>Samsung UE32T4500AU черный</model>
             <brand>Samsung</brand>
+	<colour>Черный</colour>
             <availabilities>
                 <availability available="yes" storeId="PP1"/>
                 <availability available="yes" storeId="PP2"/>
